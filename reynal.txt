@@ -4,3 +4,5 @@ git checkout login(enter login branch)
 git status(check status for unpushed commits nd shits)
 git branch -a(all branch lost)
 git checkout -b login(create nd switch to logi)
+mofo
+
